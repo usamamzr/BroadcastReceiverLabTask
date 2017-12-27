@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Nov 29 21:17:53 PKT 2017
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Usama\\AndroidStudioProjects\\MyBroadcastReceiver\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
